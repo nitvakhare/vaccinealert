@@ -1,6 +1,13 @@
 # Vaccine Alert Script
 The app lets you send SMS alerts when slot becomes available (India).
 
+## System requirements
+
+1. Python 3.X
+2. Install requests module, twilio module
+3. Crontab / Any cloud scheduler
+
+
 ## Steps to run:
 
 1. Clone the repository in your local
