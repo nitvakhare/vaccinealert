@@ -1,7 +1,7 @@
 # Vaccine Alert Script
 The app lets you send SMS alerts when slot becomes available (India).
 
-#Steps to run:
+## Steps to run:
 
 1. Clone the repository in your local
 
